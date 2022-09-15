@@ -1,15 +1,15 @@
-Assignment-3: Type Conversion
-1. Write a python script to convert a number into str type.
-2. Write a python script to print Unicode of the character ‘m’
-3. Write a python script to print character representation of a given unicode 100.
-4. Write a python script to print any number and its binary equivalent
-5. Write a python script to print any number and its octal equivalent.
-6. Write a python script to print any number and its hexadecimal equivalent.
-7. Write a python script to store binary number 1100101 in a variable and print it in
-decimal format.
-8. Write a python script to store a hexadecimal number 2F in a variable and print it in
-octal format.
-9. Write a python script to store an octal number 125 in a variable and print it in binary
-format.
-10. Write a python script to add two numbers 25 (in octal) and 39 (in hexadecimal) and
-display the result in binary format.
+Assignment - 4 Full Stack Web Development using Python MySirG
+
+User Input Problems
+
+1. Write a python script to take your name as input from the user and then print it.
+2. Write a python script to take input from the user. Input must be a number.
+3. Write a python script which takes two numbers from the user, then calculate their sum
+and display the result.
+4. Write a python script which takes the radius from the user and display area of a circle.
+5. Write a python script to calculate the square of a number. Number is entered by the user.
+6. Write a python script to calculate the area of Triangle. Number is entered by the user.
+7. Write a python script to calculate average of three numbers, entered by the user
+8. Write a python script to calculate simple interest
+9. Write a python script to calculate the volume of a cuboid.
+10. Write a python script to calculate area of a rectangle
