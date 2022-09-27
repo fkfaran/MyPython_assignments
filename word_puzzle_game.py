@@ -77,7 +77,7 @@ while n < 5:
     a = list(obj.words[n])
     b = obj.shuffle(a)
     ui = input(f"Arrange the letters to form a valid word\n{b}\n")
-    if ui == obj.words[n]:
+    if ui.lower() == obj.words[n].lower():
         obj.add_points()
         print("correct")
     else:

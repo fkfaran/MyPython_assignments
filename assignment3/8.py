@@ -1,10 +1,5 @@
-a =1100101
-i=0
-num =0
-while a:
-    b = a%10
-    if b==1:
-        num =num+2**i
-    i+=1
-    a=int(a/10)
-print(num)
+"""8. Write a python script to store a hexadecimal number 2F in a variable and print it in
+octal format."""
+
+a = 0x2F
+print(oct(a))

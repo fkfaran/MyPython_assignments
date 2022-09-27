@@ -3,5 +3,5 @@ only its middle digit."""
 
 number = int(input("enter three digit number\n"))
 
-number =int(number/10)
-print(int(number%10))
+number =number//10
+print(number%10)
